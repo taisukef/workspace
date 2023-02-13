@@ -1,1 +1,3 @@
-ln -sf ~/dev/github.com/2ndPINEW/workspace ~/workspace
+```sh
+ln -sf [forked path]/workspace ~/workspace
+```
