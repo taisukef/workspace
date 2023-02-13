@@ -6,7 +6,7 @@ if [ $# != 2 ]; then
 	exit 1
 fi
 
-cd ~/dev/github.com/2ndPINEW/workspace
+cd ~/workspace
 
 if [ ! -e $2 ]; then
 	echo パスが存在しません
